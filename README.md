@@ -1,4 +1,4 @@
-## Hi there 👋
+## 고필규
 
 <!--
 **kofeeel/kofeeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
