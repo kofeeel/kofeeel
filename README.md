@@ -16,7 +16,7 @@
 
 ### 🎲 [Run Better Run](https://github.com/kofeeel/RunBetterRun)
 - C++로 개발한 레이캐스팅 & 타일맵 기반 공포 탈출게임
-- 핵심 구현 기능: 레이캐스팅 렌더링, 타일맵 시스템, 공포 요소
+- 핵심 구현 기능: 인게임 에디터, 바이너리 파일 시그니처 기반 데이터 직렬화
 
 <a href="https://github.com/kofeeel/RunBetterRun">
   <img src="https://github.com/leebo155/RunBetterRun/raw/main/screenshots/main.png" width="450">
