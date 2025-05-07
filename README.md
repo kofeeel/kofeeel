@@ -15,7 +15,7 @@
 ## 📚 프로젝트
 
 ### 🎲 [Run Better Run](https://github.com/kofeeel/RunBetterRun)
-- WinAPI기반 C++와 SDL을 사용한 개발한 레이캐스팅 & 타일맵 기반 공포 탈출게임
+- WinAPI기반 C++와 SDL을 사용해 개발한 레이캐스팅 & 타일맵 기반 공포 탈출게임
 - **주요 기여**: 
   - 커스텀 타일맵 에디터 개발
   - 바이너리 파일 시그니처 기반 데이터 직렬화 시스템 구현
