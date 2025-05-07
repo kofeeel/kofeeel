@@ -9,7 +9,7 @@
 ## 🛠 기술 스택
 - **언어**: C++ (주력), C, Python
 - **게임 엔진**: 언리얼 엔진 5
-- **도구**: Git, Excel, Figma, PowerPoint
+- **도구**: Git, Excel, Figma, PowerPoint, Notion
 - **학습 중**: 자료구조 & 알고리즘, 운영체제, 게임 물리, 그래픽스 기초
 
 ## 📚 프로젝트
