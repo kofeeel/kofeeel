@@ -26,13 +26,13 @@
 
 ## 🌟 주요 역량
 - 객체지향 프로그래밍
-- 게임 루프 및 상태 관리
+- 문자열 파싱, 데이터 직렬화 
 - 문서화 및 발표 능력 (Excel, PPT)
 - Python, Mcp를 활용한 반복작업 자동화
 
 ## 📫 연락처
 - 이메일: kofeeel0211@gmail.com
-- 블로그: [블로그 링크](https://kofeeel.tistory.com/)
+- 블로그: https://kofeeel.tistory.com
 - 포트폴리오: [포트폴리오 링크]()
 
 ## ⚡ 취미 및 관심사
