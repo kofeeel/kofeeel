@@ -13,6 +13,8 @@
 - **학습 중**: 자료구조 & 알고리즘, 운영체제, 게임 물리, 그래픽스 기초
 
 ## 📚 프로젝트
+![Uploading image.png…]()
+
 ### 🎲 [타계]([GitHub 링크](https://github.com/kofeeel/RunBetterRun))
 - C++로 개발한 레이캐스팅 & 타일맵 기반 공포 탈출게임
 
