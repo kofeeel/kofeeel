@@ -27,6 +27,7 @@
 
 ### 🎲 [OmegaProtocol](https://github.com/kofeeel/OmegaProtocol)
 - 언리얼 GAS 프레임워크를 활용한 멀티플레이 로그라이트 슈터게임
+- 현재 스팀에 데모로 출시한 상태입니다
 - **주요 기여**: 
   - 전투 시스템 설계 및 구현
   - 데미지 시스템 및 데미지 플로터 
