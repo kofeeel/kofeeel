@@ -33,8 +33,9 @@
   - 피격, 상태이상, 넉백, 디버프등 효과 구현
   - 데이터 기반 캐릭터 및 콘텐츠 시스템
   - 적 AI 설계
+
  
-  <a href="https://github.com/kofeeel/OmegaProtocol">
+<a href="https://github.com/kofeeel/OmegaProtocol">
   <img src="https://github.com/kofeeel/OmegaProtocol/blob/main/omegaimage.png" width="450">
 </a>
 
