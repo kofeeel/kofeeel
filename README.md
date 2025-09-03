@@ -35,7 +35,7 @@
   - 적 AI 설계
  
   <a href="https://github.com/kofeeel/OmegaProtocol">
-  <img src="https://github.com/leebo155/RunBetterRun/raw/main/screenshots/main.png" width="450">
+  <img src="https://github.com/kofeeel/OmegaProtocol/blob/main/omegaimage.png" width="450">
 </a>
 
 
