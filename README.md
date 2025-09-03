@@ -37,7 +37,7 @@
 
  
 <a href="https://github.com/kofeeel/OmegaProtocol">
-  <img src="https://github.com/kofeeel/OmegaProtocol/blob/main/omegaimage.png" width="450">
+  <img src="https://github.com/kofeeel/OmegaProtocol/blob/main/Image/omegaimage.png" width="450">
 </a>
 
 
