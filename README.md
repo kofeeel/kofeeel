@@ -25,6 +25,14 @@
   <img src="https://github.com/leebo155/RunBetterRun/raw/main/screenshots/main.png" width="450">
 </a>
 
+### 🎲 [OmegaProtocol](https://github.com/kofeeel/OmegaProtocol)
+- 언리얼 GAS 프레임워크를 활용한 멀티플레이 로그라이트 슈터게임
+- **주요 기여**: 
+  - GAS 기반 전투 시스템 설계 및 구현
+  - 데미지 시스템 및 데미지 플로터
+  - 상태 이상 및 넉백 시스템
+  - 데이터 기반 캐릭터 및 콘텐츠 시스템
+  - 적 AI 설계 
 
 
 ## 🌟 주요 역량
