@@ -34,7 +34,7 @@
   - 데이터 기반 캐릭터 및 콘텐츠 시스템
   - 적 AI 설계
  
-  <a href="https://github.com/kofeeel/RunBetterRun">
+  <a href="https://github.com/kofeeel/OmegaProtocol">
   <img src="https://github.com/leebo155/RunBetterRun/raw/main/screenshots/main.png" width="450">
 </a>
 
