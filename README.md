@@ -9,9 +9,13 @@
 ## 🛠 기술 스택
 - **언어**: C++ (주력), C, Python
 - **게임 엔진**: 언리얼 엔진 5
-- **도구**: Git, Excel, PowerPoint, Notion
-- **학습 중**: 자료구조 & 알고리즘, 게임 물리, 그래픽스 기초
+- **형상관리 툴**: Perforce, Git, SVN
+- **도구**: Notion, Excel
 
+## Education
+- **수원대학교 컴퓨터학부 학사 졸업**  (2018.03 ~ 2025.02)
+- **원티드 포텐업 2기 수료** (2025.02 ~ 2025.08) 
+  
 ## 📚 프로젝트
 
 ### 🎲 [Run Better Run](https://github.com/kofeeel/RunBetterRun)
