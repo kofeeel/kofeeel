@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&lines=GAS+Combat+Pipeline+Architect;Network+Optimization+%7C+83→22+bytes;Data-Driven+Game+Development;Steam+Demo+Published+%7C+GameAnalytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2962FF&center=true&vCenter=true&width=520&lines=GAS+Combat+Pipeline+Architect;Network+Optimization+%7C+83→22+bytes;Data-Driven+Game+Development;Steam+Demo+Published+%7C+GameAnalytics)](https://git.io/typing-svg)
 
 [![Blog](https://img.shields.io/badge/Blog-kofeeel.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://kofeeel.tistory.com)
 [![Gmail](https://img.shields.io/badge/Email-kofeeel0211-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kofeeel0211@gmail.com)
@@ -130,7 +130,11 @@
 
 ## 📈 Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kofeeel&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kofeeel&theme=tokyo-night&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kofeeel&theme=github-light&hide_border=true&area=true">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kofeeel&theme=tokyo-night&hide_border=true&area=true">
+</picture>
 
 ---
 
@@ -138,8 +142,8 @@
 
 ```
 🎮 최애 게임     몬스터 헌터, 니케
-⚽ 스포츠        축구 관전
-🎬 휴식          고전 미드 · 영화 감상
+⚽ 스포츠        축구 
+🎬 휴식          드라마 · 영화 감상
 ```
 
 ---
