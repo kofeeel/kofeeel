@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2962FF&center=true&vCenter=true&width=520&lines=GAS+Combat+Pipeline+Architect;Network+Optimization+%7C+83→22+bytes;Data-Driven+Game+Development;Steam+Demo+Published+%7C+GameAnalytics)](https://git.io/typing-svg)
 
-[![Blog](https://img.shields.io/badge/Blog-kofeeel.tistory.com-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://kofeeel.tistory.com)
-[![Gmail](https://img.shields.io/badge/Email-kofeeel0211-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kofeeel0211@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kofeeel-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kofeeel)
-
 </div>
 
 ---
